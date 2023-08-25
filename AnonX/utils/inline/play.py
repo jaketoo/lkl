@@ -61,7 +61,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⌞ 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙄𝙊", url=f"https://t.me/R_i_O_Q"
+                text="⌞ 𝙈𝙪𝙝𝙖𝙢𝙢𝙚𝙙 𝙆𝙝𝙖𝙡𝙞𝙙", url=f"https://t.me/Mvhmed"
             )
         ],
         [
@@ -123,7 +123,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⌞ 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙄𝙊⁩", url=f"https://t.me/R_i_O_Q"
+                text="⌞ 𝙈𝙪𝙝𝙖𝙢𝙢𝙚𝙙 𝙆𝙝𝙖𝙡𝙞𝙙⁩", url=f"https://t.me/Mvhmed"
             )
         ],
         [
@@ -157,7 +157,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⌞𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙄𝙊⁩", url=f"https://t.me/R_i_O_Q"
+                text="⌞𝙈𝙪𝙝𝙖𝙢𝙢𝙚𝙙 𝙆𝙝𝙖𝙡𝙞𝙙", url=f"https://t.me/Mvhmed"
             )
         ],
         [
@@ -188,7 +188,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⌞ 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙄𝙊⁩", url=f"https://t.me/R_i_O_Q"
+                text="⌞ 𝙈𝙪𝙝𝙖𝙢𝙢𝙚𝙙 𝙆𝙝𝙖𝙡𝙞𝙙", url=f"https://t.me/Mvhmed"
             )
         ],
         [
@@ -348,7 +348,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⌞ 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙄𝙊˼⁩", url=f"https://t.me/R_i_O_Q"
+                text="⌞ 𝙈𝙪𝙝𝙖𝙢𝙢𝙚𝙙 𝙆𝙝𝙖𝙡𝙞𝙙⁩", url=f"https://t.me/Mvhmed"
             )
         ],
         [
